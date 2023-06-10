@@ -2,8 +2,7 @@
 
 # hey there! My name is Roman  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <img width="270" src="https://media.giphy.com/media/KpACNEh8jXK2Q/giphy.gif" align="right" />
-<p> I am a web developer </p>
-</p>
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
